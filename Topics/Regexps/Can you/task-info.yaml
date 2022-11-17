@@ -1,0 +1,13 @@
+type: code
+custom_name: Can you.. ?
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    val answer = readln()\n    // write your code here  \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20605#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 09 Nov 2022 13:45:14 UTC
+record: -1
